@@ -1,4 +1,4 @@
-# Proyek Kelompok PBW — Sistem Parkir Kendaraan
+# Proyek UTS PBW — Sistem Parkir Kendaraan
 
 ## Deskripsi
 Mini aplikasi PHP untuk simulasi transaksi parkir kendaraan. Proyek mengintegrasikan materi Pertemuan 1–7: PHP dan XAMPP, procedural dan OOP, variabel dan tipe data, konstanta, operator, manipulasi string, WHILE, DO-WHILE, dan FOR.
