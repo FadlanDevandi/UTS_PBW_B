@@ -59,7 +59,22 @@ project_parkir_kelompok/
 5. Plat kosong → ditolak.
 
 ## Pembagian tugas (isi sesuai anggota kelompok)
-1. Mohammad Fadlan Devandi 4523210065
+
+### 1. Mohammad Fadlan Devandi — 4523210065
+
+- Membuat `functions.php` untuk perhitungan tarif dan validasi input.
+- Membuat class `Kendaraan.php` dengan menerapkan konsep Object-Oriented Programming (OOP).
+- Mengembangkan `proses.php` untuk menghitung biaya parkir dan membuat tiket parkir.
+- Menerapkan variabel, tipe data, konstanta, operator, manipulasi string, serta perulangan `WHILE` dan `DO-WHILE`.
+- Menyusun README GitHub dan ringkasan PDF proyek.
+
+### 2. Muhammad Rashaqa — 4523210078
+
+- Membuat `index.php` sebagai halaman input kendaraan.
+- Mengembangkan `laporan.php` untuk menampilkan transaksi menggunakan perulangan `FOR`.
+- Merapikan tampilan aplikasi melalui `assets/css/style.css`.
+- Mengambil lima screenshot dokumentasi aplikasi, meliputi halaman utama, form input, hasil transaksi, output loop, dan validasi input.
+
 
 ## Screenshot Aplikasi
 ### 1. Halaman Utama
