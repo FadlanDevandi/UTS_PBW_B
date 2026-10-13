@@ -19,13 +19,6 @@ Mini aplikasi PHP untuk simulasi transaksi parkir kendaraan. Proyek mengintegras
 - Status: Normal (<= 2 jam), Menengah (> 2 sampai 5 jam), Parkir Lama (> 5 jam).
 - Tarif hanya contoh untuk keperluan tugas.
 
-## Cara menjalankan
-1. Ekstrak folder `project_parkir_kelompok` ke `C:\xampp\htdocs\`.
-2. Jalankan Apache dari XAMPP Control Panel.
-3. Buka `http://localhost/project_parkir_kelompok/`.
-4. Input transaksi lalu buka menu **Laporan Parkir**.
-
-Tidak memerlukan MySQL karena transaksi disimpan di PHP session. Data bukan penyimpanan permanen dan dapat hilang saat sesi berakhir.
 
 ## Struktur folder
 ```text
